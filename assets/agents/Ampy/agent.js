@@ -158,13 +158,13 @@ clippy.ready('Ampy', {
         },
         "Pleased": {
             "frames": [{
-                "duration": 250,
+                "duration": 150,
                 "images": [
                     [2852, 0]
                 ],
             },
             {
-                "duration": 250,
+                "duration": 150,
                 "images": [
                     [2976, 0]
                 ],
@@ -172,19 +172,19 @@ clippy.ready('Ampy', {
         },
         "Thinking": {
             "frames": [{
-                "duration": 250,
+                "duration": 150,
                 "images": [
                     [3224, 0]
                 ],
             },
             {
-                "duration": 250,
+                "duration": 150,
                 "images": [
                     [3348, 0]
                 ],
             },
             {
-                "duration": 250,
+                "duration": 150,
                 "images": [
                     [3472, 0]
                 ],
